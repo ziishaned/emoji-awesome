@@ -2,23 +2,23 @@
 
 > Its like font-awesome but for emojis :dancer:
 
-> Chose from hundreds of emojis and start using without having to worry about the compatibility issues :open_mouth:
+Chose from hundreds of emojis and start using without having to worry about the compatibility issues :open_mouth:
 
 ## Usage
 
 Just include the [given CSS file](https://raw.githubusercontent.com/zeeshanu/emoji-awesome/master/dist/css/emoji-awesome.min.css) and start using emojis :clap:
 
 ```html
-<i class="em em-heart"></i> :heart:
-<i class="em em-gift"></i> :gift:
-<i class="em em-bell"></i> :bell:
+<i class="em em-heart"></i>
+<i class="em em-gift"></i>
+<i class="em em-bell"></i>
 ```
 
-## Documentation
+## :page_with_curl: Documentation
 
 For further details and list of available emojis, visit the [demo directory](https://github.com/zeeshanu/emoji-awesome/tree/master/demo) or the [demo site](http://zeeshanu.github.io/emoji-awesome)
 
-## Roadmap
+## :vertical_traffic_light: Roadmap
 
 - [x] Add apple emoji support
 - [ ] Add twitter emoji support
@@ -27,10 +27,10 @@ For further details and list of available emojis, visit the [demo directory](htt
 - [ ] Add facebook emoji support
 - [ ] Add emoji-one emoji support
 
-## Contributions
+## :family: Contributions
 
 Feel free to fork the repository, improve anything or add support for the other emojis listed in the roadmap. Emoji sheets can be found in the `src/sheets` directory 
 
-## License
+## :oncoming_police_car: License
 
-MIT (c) Zeeshan Ahmed
+MIT :copyright: Zeeshan Ahmed
