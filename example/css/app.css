@@ -1,0 +1,107 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font: 400 .875em/1 -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.clr {
+	clear: both;
+}
+
+.container {
+	width: 800px;
+	margin: auto;
+}
+
+.hero-section {
+	background: white;
+	padding: 50px 0;
+	line-height: 30px;
+	text-align: center;
+}
+
+.hero-section h1 {
+	font-size: 32px;
+	margin-bottom: 11px;
+}
+
+.hero-foot {
+	text-align: center;
+}
+
+.hero-foot .container {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    line-height: 33px;
+}
+
+.hero-section i.em {
+    margin-right: 3px;
+}
+
+.section, .hero-foot {
+    margin-bottom: 45px;
+}
+
+.section h2 {
+    margin-bottom: 15px;
+}
+
+.section p {
+    margin-bottom: 10px;
+    line-height: 20px;
+}
+
+.section code {
+    display: inline-block;
+    margin-bottom: 9px;
+    background: whitesmoke;
+    padding: 5px 15px;
+    width: 242px;
+    margin-right: 10px;
+    border-radius: 4px;
+    font-size: 12px;
+}
+
+.alert {
+	padding: 10px;
+	background: whitesmoke;
+	border-radius: 3px;
+}
+
+ul.emoji-list {
+    font-family: monospace;
+    margin-bottom: 1.3em;
+}
+
+ul.emoji-list li {
+    width: 225px;
+    margin-bottom: 1em;
+}
+
+.list-inline>li {
+    display: inline-block;
+    padding-right: 5px;
+    padding-left: 5px;
+}	
+
+input[type="text"] {
+	padding: 10px;
+	display: block;
+	width: 100%;
+	border-radius: 3px;
+	border: none;
+	border: 1px solid #ccc;
+}
