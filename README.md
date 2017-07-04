@@ -1,6 +1,6 @@
 ![](http://i.imgur.com/YWpky11.png)
 
-> Its like font-awesome but for emojis :dancer:
+> Its like font-awesome but for emojis. [Visit demo](https://zeeshanu.github.io/emoji-awesome/) :dancer:
 
 Chose from hundreds of emojis and start using without having to worry about the compatibility issues :open_mouth:
 
@@ -16,7 +16,7 @@ Just include the [given CSS file](https://raw.githubusercontent.com/zeeshanu/emo
 
 ## :page_with_curl: Documentation
 
-For further details and list of available emojis, visit the [demo directory](https://github.com/zeeshanu/emoji-awesome/tree/master/demo) or the [demo site](http://zeeshanu.github.io/emoji-awesome)
+For further details and list of available emojis, visit the [docs directory](https://github.com/zeeshanu/emoji-awesome/tree/master/docs) or the [demo site](http://zeeshanu.github.io/emoji-awesome)
 
 ## :vertical_traffic_light: Roadmap
 
