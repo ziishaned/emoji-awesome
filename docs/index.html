@@ -61,12 +61,15 @@
 			<div class="container">
 				<h2>Search emoji</h2>
 				<p>Use the search below to find appropriate emoji</p>	
-				<p class="alert">
+				<!-- <p class="alert">
 					<i class="em em-cry"></i>
 					Search is in the pipeline. Please create a PR; if possible, otherwise use browser's search 
 					<i class="em em-sunglasses"></i>
-				</p>
+				</p> -->
+				<input id="search-emoji" type="text" name="" value="" oninput="findEmoji();" />
 				<br><br>
+				<div id="emoji-lists">
+					
 				<h2>People</h2>
 				<ul class="emoji-list list-unstyled list-inline">
 					<li><i class="em em-smile"></i> em-smile</li>
@@ -945,6 +948,8 @@
 					<li><i class="em em-small_red_triangle_down"></i> em-small_red_triangle_down</li>
 				</ul>
 			</div>
+
+			</div>
 		</div>
 	</div>
 	<script>
@@ -955,6 +960,24 @@
 
   ga('create', 'UA-97158482-1', 'auto');
   ga('send', 'pageview');
+
+</script>
+<script type="text/javascript">
+	function findEmoji(){
+		console.log('find');
+		value = document.getElementById('search-emoji').value;
+		document.getElementById('emoji-lists').className = "hide";
+		emojis = document.querySelectorAll("#emoji-lists li");
+		for(i=0; i < emojis.length; i++){
+			emoji = emojis[i];
+			if(emoji.children[0].className.includes(value)){
+				emoji.style.display = "inline-block";
+			}
+			else{
+				emoji.style.display = "none";
+			}
+		}
+	};
 
 </script>
 </body>
