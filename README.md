@@ -21,11 +21,11 @@ For further details and list of available emojis, visit the [docs directory](htt
 ## :vertical_traffic_light: Roadmap
 
 - [x] Add apple emoji support
-- [ ] Add twitter emoji support
-- [ ] Add messenger emoji support
-- [ ] Add google emoji support
-- [ ] Add facebook emoji support
-- [ ] Add emoji-one emoji support
+- [x] Add twitter emoji support
+- [x] Add messenger emoji support
+- [x] Add google emoji support
+- [x] Add facebook emoji support
+- [x] Add emoji-one emoji support
 
 ## :family: Contributions
 
