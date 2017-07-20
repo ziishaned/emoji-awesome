@@ -40,7 +40,7 @@
     background-position: 65% 50%;
 }
 
-.em.em-laughing {
+.em.em-laughing, .em.em-satisfied {
     background-position: 65% 52.5%;
 }
 
@@ -288,7 +288,7 @@
     background-position: 50% 27.5%;
 }
 
-.em.em-hankey {
+.em.em-hankey, .em.em-poop, .em.em-shit {
     background-position: 50% 40%;
 }
 
@@ -372,15 +372,15 @@
     background-position: 35% 82.5%;
 }
 
-.em.em-+1 {
+.em.em---1, .em.em-thumbsup {
     background-position: 37.5% 10%;
 }
 
-.em.em--1 {
+.em.em--1, .em.em-thumbsdown {
     background-position: 37.5% 25%;
 }
 
-.em.em-facepunch {
+.em.em-facepunch, .em.em-punch {
     background-position: 35% 67.5%;
 }
 
@@ -396,7 +396,7 @@
     background-position: 35% 97.5%;
 }
 
-.em.em-hand {
+.em.em-hand, .em.em-raised_hand {
     background-position: 7.5% 37.5%;
 }
 
@@ -568,7 +568,7 @@
     background-position: 75% 100%;
 }
 
-.em.em-runner {
+.em.em-runner, .em.em-running {
     background-position: 25% 22.5%;
 }
 
@@ -716,7 +716,7 @@
     background-position: 37.5% 92.5%;
 }
 
-.em.em-shirt {
+.em.em-shirt, .em.em-tshirt {
     background-position: 37.5% 80%;
 }
 
@@ -764,7 +764,7 @@
     background-position: 40% 10%;
 }
 
-.em.em-mans_shoe {
+.em.em-mans_shoe, .em.em-shoe {
     background-position: 40% 0%;
 }
 
@@ -948,7 +948,7 @@
     background-position: 80% 47.5%;
 }
 
-.em.em-bee {
+.em.em-bee, .em.em-honeybee {
     background-position: 30% 85%;
 }
 
@@ -1108,7 +1108,7 @@
     background-position: 32.5% 67.5%;
 }
 
-.em.em-feet {
+.em.em-feet, .em.em-paw_prints {
     background-position: 32.5% 65%;
 }
 
@@ -1268,7 +1268,7 @@
     background-position: 12.5% 100%;
 }
 
-.em.em-moon {
+.em.em-moon, .em.em-waxing_gibbous_moon {
     background-position: 15% 0%;
 }
 
@@ -1360,7 +1360,7 @@
     background-position: 57.5% 52.5%;
 }
 
-.em.em-boom {
+.em.em-boom, .em.em-collision {
     background-position: 50% 30%;
 }
 
@@ -3060,7 +3060,7 @@
     background-position: 7.5% 85%;
 }
 
-.em.em-memo {
+.em.em-memo, .em.em-pencil {
     background-position: 52.5% 80%;
 }
 
@@ -3408,7 +3408,7 @@
     background-position: 55% 37.5%;
 }
 
-.em.em-exclamation {
+.em.em-exclamation, .em.em-heavy_exclamation_mark {
     background-position: 10% 20%;
 }
 
@@ -4348,7 +4348,7 @@
     background-position: 82.5% 95%;
 }
 
-.em.em-flag-cn {
+.em.em-flag-cn, .em.em-cn {
     background-position: 82.5% 100%;
 }
 
@@ -4468,7 +4468,7 @@
     background-position: 85% 62.5%;
 }
 
-.em.em-flag-fr {
+.em.em-flag-fr, .em.em-fr {
     background-position: 85% 75%;
 }
 
@@ -4496,7 +4496,7 @@
     background-position: 85% 85%;
 }
 
-.em.em-flag-de {
+.em.em-flag-de, .em.em-de {
     background-position: 85% 22.5%;
 }
 
@@ -4596,7 +4596,7 @@
     background-position: 87.5% 45%;
 }
 
-.em.em-flag-it {
+.em.em-flag-it, .em.em-it {
     background-position: 87.5% 62.5%;
 }
 
@@ -4608,7 +4608,7 @@
     background-position: 87.5% 67.5%;
 }
 
-.em.em-flag-jp {
+.em.em-flag-jp, .em.em-jp {
     background-position: 87.5% 72.5%;
 }
 
@@ -4892,7 +4892,7 @@
     background-position: 92.5% 55%;
 }
 
-.em.em-flag-ru {
+.em.em-flag-ru, .em.em-ru {
     background-position: 92.5% 60%;
 }
 
@@ -4988,7 +4988,7 @@
     background-position: 87.5% 10%;
 }
 
-.em.em-flag-kr {
+.em.em-flag-kr, .em.em-kr {
     background-position: 87.5% 92.5%;
 }
 
@@ -4996,7 +4996,7 @@
     background-position: 95% 0%;
 }
 
-.em.em-flag-es {
+.em.em-flag-es, .em.em-es {
     background-position: 85% 55%;
 }
 
@@ -5096,11 +5096,11 @@
     background-position: 80% 87.5%;
 }
 
-.em.em-flag-gb {
+.em.em-flag-gb, .em.em-gb, .em.em-uk {
     background-position: 85% 80%;
 }
 
-.em.em-flag-us {
+.em.em-flag-us, .em.em-us {
     background-position: 95% 65%;
 }
 
