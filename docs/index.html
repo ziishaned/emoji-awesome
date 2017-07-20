@@ -70,12 +70,7 @@
 		<div class="section">
 			<div class="container">
 				<h2>Search emoji</h2>
-				<p>Use the search below to find appropriate emoji</p>	
-				<!-- <p class="alert">
-					<i class="em em-cry"></i>
-					Search is in the pipeline. Please create a PR; if possible, otherwise use browser's search 
-					<i class="em em-sunglasses"></i>
-				</p> -->
+				<p>Use the search below to find appropriate emoji</p>
 				<input id="search-emoji" type="text" name="" value="" oninput="findEmoji();" />
 				<br><br>
 				<div id="emoji-lists">
@@ -964,7 +959,7 @@
 	</div>
 	<script type="text/javascript">
 		var emojiSets = document.getElementsByClassName('emoji-set');
-	console.log(emojiSets)
+
 		for (var i = 0; i < emojiSets.length; i++) {
 			emojiSets[i].addEventListener("click", function(evt) {
 				var href = evt.target.getAttribute('data-href');
@@ -985,7 +980,6 @@
 </script>
 <script type="text/javascript">
 	function findEmoji(){
-		console.log('find');
 		value = document.getElementById('search-emoji').value;
 		document.getElementById('emoji-lists').className = "hide";
 		emojis = document.querySelectorAll("#emoji-lists li");
