@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<title>emoji-awesome</title>
 	<link rel="stylesheet" type="text/css" href="css/app.css">
-	<link rel="stylesheet" type="text/css" href="css/messenger.css">
+	<link rel="stylesheet" id="emoji-css" type="text/css" href="css/apple.css">
 	<style type="text/css">
 		iframe { display: block; margin: 25px auto; }
 	</style>
@@ -32,17 +32,27 @@
 		</div>
 		<div class="hero-foot">
 			<div class="container">
-				<p>
-					<i class="em em-checkered_flag"></i>
-					It's like font-awesome but for emojis
-					<i class="em em-dancer"></i>
-				</p>
-				<p>
-					<i class="em em-hatching_chick"></i>
-					Chose from hundreds of emojis listed below and start using without having to worry about the compatibility issues
-					<i class="em em-open_mouth"></i>
-
-				</p>
+				<h1>Change emoji set</h1>
+				<ul class="emoji-sets">
+					<li>
+						<button class="emoji-set" data-href="css/apple.css">Apple</button>
+					</li>
+					<li>
+						<button class="emoji-set" data-href="css/google.css">Google</button>
+					</li>
+					<li>
+						<button class="emoji-set" data-href="css/twitter.css">Twitter</button>
+					</li>
+					<li>
+						<button class="emoji-set" data-href="css/emojione.css">Emojione</button>
+					</li>
+					<li>
+						<button class="emoji-set" data-href="css/facebook.css">Facebook</button>
+					</li>
+					<li>
+						<button class="emoji-set" data-href="css/messenger.css">Messenger</button>
+					</li>
+				</ul>
 			</div>
 		</div>
 
@@ -947,6 +957,17 @@
 			</div>
 		</div>
 	</div>
+	<script type="text/javascript">
+		var emojiSets = document.getElementsByClassName('emoji-set');
+	console.log(emojiSets)
+		for (var i = 0; i < emojiSets.length; i++) {
+			emojiSets[i].addEventListener("click", function(evt) {
+				var href = evt.target.getAttribute('data-href');
+				document.getElementById('emoji-css').setAttribute('href', href);
+			})	
+		}
+
+	</script>
 	<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
