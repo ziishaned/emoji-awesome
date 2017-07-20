@@ -1,0 +1,14 @@
+.em {
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    overflow: hidden;
+    line-height: 18px;
+    font-size: 22px;
+    vertical-align: middle;
+    margin-top: -4px;
+    color: transparent !important;
+    background: url(../img/sheet_google_64_indexed_128.png);
+    background-size: 4100%;
+}
+
