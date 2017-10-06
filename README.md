@@ -4,6 +4,26 @@
 
 Chose from hundreds of emojis and start using without having to worry about the compatibility issues :open_mouth:
 
+## Quick install
+
+### NPM
+
+```bash
+npm install emoji-awesome
+```
+
+### Yarn
+
+```bash
+yarn add emoji-awesome
+```
+
+### Bower
+
+```bash
+bower install emoji-awesome
+```
+
 ## Usage
 
 Just include the [given CSS file](https://raw.githubusercontent.com/zeeshanu/emoji-awesome/master/dist/css/emoji-awesome.min.css) and start using emojis :clap:
