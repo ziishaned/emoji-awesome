@@ -1,5 +1,5 @@
 <div>
-  <center>![](https://dzwonsemrish7.cloudfront.net/items/1Y0p3J3C3q1k3Q3a2131/Untitled-1.png)</center>
+  <center><img src="https://dzwonsemrish7.cloudfront.net/items/1Y0p3J3C3q1k3Q3a2131/Untitled-1.png" alt=""/></center>
 </div>
 
 > Its like font-awesome but for emojis. [Visit demo](https://zeeshanu.github.io/emoji-awesome/) :dancer:
