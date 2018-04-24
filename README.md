@@ -1,4 +1,4 @@
-![](http://i.imgur.com/YWpky11.png)
+![](https://dzwonsemrish7.cloudfront.net/items/1Y0p3J3C3q1k3Q3a2131/Untitled-1.png)
 
 > Its like font-awesome but for emojis. [Visit demo](https://zeeshanu.github.io/emoji-awesome/) :dancer:
 
