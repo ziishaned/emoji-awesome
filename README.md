@@ -26,7 +26,7 @@ bower install emoji-awesome
 
 ## Usage
 
-Just include the [given CSS file](https://raw.githubusercontent.com/zeeshanu/emoji-awesome/master/dist/css/emoji-awesome.min.css) and start using emojis :clap:
+Just include the [given CSS file](https://github.com/zeeshanu/emoji-awesome/tree/master/src/css) and start using emojis :clap:
 
 ```html
 <i class="em em-heart"></i>
@@ -49,7 +49,7 @@ For further details and list of available emojis, visit the [docs directory](htt
 
 ## :family: Contributions
 
-Feel free to fork the repository, improve anything or add support for the other emojis listed in the roadmap. Emoji sheets can be found in the `src/sheets` directory 
+Feel free to fork the repository, improve anything or add support for the other emojis listed in the roadmap. Emoji sheets can be found in the `src/img` directory 
 
 ## :oncoming_police_car: License
 
