@@ -1,6 +1,6 @@
 <img src="https://dzwonsemrish7.cloudfront.net/items/1Y0p3J3C3q1k3Q3a2131/Untitled-1.png" alt=""/>
 
-> Its like font-awesome but for emojis. [Visit demo](https://zeeshanu.github.io/emoji-awesome/) :dancer:
+> Its like font-awesome but for emojis. [Visit demo](https://ziishaned.github.io/emoji-awesome/) :dancer:
 
 Chose from hundreds of emojis and start using without having to worry about the compatibility issues :open_mouth:
 
@@ -12,21 +12,9 @@ Chose from hundreds of emojis and start using without having to worry about the 
 npm install emoji-awesome
 ```
 
-### Yarn
-
-```bash
-yarn add emoji-awesome
-```
-
-### Bower
-
-```bash
-bower install emoji-awesome
-```
-
 ## Usage
 
-Just include the [given CSS file](https://raw.githubusercontent.com/zeeshanu/emoji-awesome/master/dist/css/emoji-awesome.min.css) and start using emojis :clap:
+Just include the [given CSS file](https://raw.githubusercontent.com/ziishaned/emoji-awesome/master/dist/css/emoji-awesome.min.css) and start using emojis :clap:
 
 ```html
 <i class="em em-heart"></i>
@@ -36,7 +24,7 @@ Just include the [given CSS file](https://raw.githubusercontent.com/zeeshanu/emo
 
 ## :page_with_curl: Documentation
 
-For further details and list of available emojis, visit the [docs directory](https://github.com/zeeshanu/emoji-awesome/tree/master/docs) or the [demo site](http://zeeshanu.github.io/emoji-awesome)
+For further details and list of available emojis, visit the [docs directory](https://github.com/ziishaned/emoji-awesome/tree/master/docs) or the [demo site](http://ziishaned.github.io/emoji-awesome)
 
 ## :vertical_traffic_light: Roadmap
 
@@ -53,4 +41,4 @@ Feel free to fork the repository, improve anything or add support for the other 
 
 ## :oncoming_police_car: License
 
-MIT :copyright: Zeeshan Ahmed
+MIT :copyright: Zeeshan Ahmad
