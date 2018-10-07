@@ -1,6 +1,8 @@
-<img src="https://dzwonsemrish7.cloudfront.net/items/1Y0p3J3C3q1k3Q3a2131/Untitled-1.png" alt=""/>
-
-> Its like font-awesome but for emojis. [Visit demo](https://ziishaned.github.io/emoji-awesome/) :dancer:
+<h1 align="center">
+	<img height="150" src="https://image.flaticon.com/icons/svg/1163/1163115.svg" alt="Dumper.js - Dumps information about a variable" />
+	<br> Emoji-Awesome
+</h1>
+<p align="center">Its like font-awesome but for emojis. <a href="https://ziishaned.github.io/emoji-awesome/">Visit demo</a></p>
 
 Chose from hundreds of emojis and start using without having to worry about the compatibility issues :open_mouth:
 
