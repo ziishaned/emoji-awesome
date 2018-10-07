@@ -1,16 +1,16 @@
 {
   "name": "emoji-awesome",
   "version": "0.0.1",
-  "homepage": "https://zeeshanu.github.io/emoji-awesome/",
-  "author": "Zeeshan Ahmed <ziishaned@gmail.com> (https://zeeshanu.github.io/)",
+  "homepage": "https://github.com/ziishaned/emoji-awesome",
+  "author": "Zeeshan Ahmad <ziishaned@gmail.com>",
   "description": "Cross platform, easy to use, no-javascript solution for the emoji awesomeness 😎",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeshanu/emoji-awesome.git"
+    "url": "git+https://github.com/ziishaned/emoji-awesome.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zeeshanu/emoji-awesome/issues"
+    "url": "https://github.com/ziishaned/emoji-awesome/issues"
   },
   "keywords": [
     "css",
