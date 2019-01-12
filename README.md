@@ -2,6 +2,18 @@
 	<img height="150" src="https://image.flaticon.com/icons/svg/1163/1163115.svg" alt="Dumper.js - Dumps information about a variable" />
 	<br> Emoji-Awesome
 </h1>
+<p align="center">
+  <a href="https://twitter.com/home?status=emoji-awesome%20by%20%40ziishaned%20http%3A//github.com/ziishaned/emoji-awesome">
+    <img src="https://img.shields.io/badge/twitter-tweet-blue.svg?style=flat-square"/>
+  </a>
+  <a href="https://twitter.com/ziishaned">
+    <img src="https://img.shields.io/badge/feedback-@ziishaned-blue.svg?style=flat-square" />
+  </a>
+    <a href="https://github.com/ziishaned/emoji-awesome">
+        <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square" alt="Software License">
+    </a>
+</p>
+
 <p align="center">Its like font-awesome but for emojis. <a href="https://ziishaned.github.io/emoji-awesome/">Visit demo</a></p>
 
 Chose from hundreds of emojis and start using without having to worry about the compatibility issues :open_mouth:
