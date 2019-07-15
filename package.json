@@ -16,5 +16,15 @@
     "css",
     "emoji",
     "emoji-awesome"
-  ]
+  ],
+  "dependencies": {
+    "opencollective-postinstall": "^2.0.2"
+  },
+  "collective": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/emoji-awesome"
+  },
+  "scripts": {
+    "postinstall": "opencollective-postinstall || true"
+  }
 }
