@@ -13,10 +13,6 @@
     </a>
 </p>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/ziishaned" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-</p>
-
 <p align="center">Its like font-awesome but for emojis. <a href="https://ziishaned.github.io/emoji-awesome/">Visit demo</a></p>
 
 Chose from hundreds of emojis and start using without having to worry about the compatibility issues :open_mouth:
