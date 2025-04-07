@@ -1,6 +1,5 @@
 <h1 align="center">
-	<img height="150" src="https://image.flaticon.com/icons/svg/1163/1163115.svg" alt="Dumper.js - Dumps information about a variable" />
-	<br> Emoji-Awesome
+	Emoji-Awesome
 </h1>
 <p align="center">
   <a href="https://twitter.com/home?status=emoji-awesome%20by%20%40ziishaned%20http%3A//github.com/ziishaned/emoji-awesome">
